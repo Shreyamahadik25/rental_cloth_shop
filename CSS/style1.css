@@ -1,0 +1,107 @@
+#trendingNow .widget-card {
+    width: 100%;
+    -webkit-box-shadow: 0 1px 2px rgb(0 0 0 / 20%);
+    box-shadow: 0 1px 2px rgb(0 0 0 / 20%);
+    cursor: pointer;
+    text-align: center;
+    color: #222;
+    position: relative;
+    border-radius: 1px;
+    padding: 8px;
+    background-color: #fff;
+    display: inline-block;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* <style>
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+*, body {
+    padding: 0;
+    margin: 0;
+    font-family: Roboto, sans-serif;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+<style>
+.widget-container {
+    background: #fff;
+    -webkit-box-shadow: 0 2px 2px rgb(0 0 0 / 20%);
+    box-shadow: 0 2px 2px rgb(0 0 0 / 20%);
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-bottom: 15px;
+    width: 100%;
+    text-align: left;
+}
+.main-content {
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: #f2f2f2;
+    padding-bottom: 40px;
+}
+style attribute {
+    --shortsThemeColor: #545cd8;
+    --shortsInvertColor: #eee;
+}
+<style>
+:root {
+    --saVideoTilePosition: auto 15px 15px auto;
+    --sa-color-light: #fbfbfb;
+    --sa-color-dark: #393939;
+}
+<style>
+:root {
+    --swiper-navigation-size: 44px;
+}
+<style>
+:root {
+    --swiper-theme-color: #007aff;
+}
+<style>
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+<style>
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+<style>
+::-webkit-scrollbar {
+    width: 3px;
+    height: 4px;
+}
+<style>
+::-webkit-scrollbar-thumb {
+    background: #a1a1a1;
+    border-radius: 5px;
+}
+<style>
+::-webkit-scrollbar-track {
+    background: #e1e1e1;
+    border-radius: 5px;
+    margin: 15px 18px;
+}
+::selection {
+    color: #fff;
+    background: #009d43;
+} */

@@ -1,0 +1,553 @@
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('../fonts/Montserrat-Regular.ttf')  format('truetype');
+}
+#abs{
+    border: 2px solid purple;
+    color: white;
+    font-size: large;
+    height: 50px;
+    width: 200px;
+    position: relative;
+    left: 660px;
+    background-color: #3f073f
+
+}
+
+#abs:hover{
+    background-color:purple;
+}
+p{
+    position: relative;
+    top: 30px;
+}
+#cate{
+    color: #540348;
+    position: relative;
+    top: 10px;
+   
+}
+
+.main{
+   
+    background-color:#300c30;
+   
+}
+#a{
+    color: white;
+    font-size: 20px;
+    padding-right: 50px;
+}
+.to{
+   margin-left: 150px;
+}
+#search{
+    height: 20px;
+}
+#b{
+    position: relative;
+    left: 20px;
+}
+#c{
+    position: relative;
+    left: 30px; 
+}
+
+.imgp{
+    border: 1px solid rgb(21, 2, 63);
+    height: 500px;
+    border-radius: 4px;
+}
+.imgpro{
+   position: relative;
+   top: 10px;
+}
+.im{
+    background-color: grey;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+#section5{
+    background-image: url("../images/F.jpeg");
+   
+    height:500px;
+    width: 100%;  
+ }
+
+ #aa{
+    color: rgb(33, 6, 72);
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+    height: 50px;
+    width: 400px;
+    position: relative;
+    right: 100px;
+    top: 40px;
+    text-align: center;
+    box-shadow: 3px 3px 1px #5a20559c;
+    
+ }
+ #bb{
+    color: rgb(33, 6, 72);
+    font-family: 'Times New Roman', Times, serif;
+    height: 50px;
+    width: 400px;
+    position: relative;
+    top: 80px;
+    right: 50px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 3px 3px 1px #5a20559c;
+ }
+ #cc{
+    color: rgb(33, 6, 72);
+    font-family: 'Times New Roman', Times, serif;
+    height: 50px;
+    width: 400px;
+    position: relative;
+    top: 120px;
+    right: 100px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 3px 3px 1px #5a20559c;
+ }
+ #dd{
+    color: rgb(33, 6, 72);
+    font-family: 'Times New Roman', Times, serif;
+    height: 50px;
+    width: 400px;
+    position: relative;
+    top: 160px;
+    right: 50px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 3px 3px 1px #5a20559c;
+ }
+ #ee{
+    color: rgb(33, 6, 72);
+    font-family: 'Times New Roman', Times, serif;
+    height: 50px;
+    width: 400px;
+    position: relative;
+    top: 200px;
+    right: 100px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 3px 3px 1px #5a20559c;
+ }
+ #image{
+    position: relative;
+    top: 30px;
+ }
+
+#shreya{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+ }
+ #akshu{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+ }
+ .m{
+    position: relative;
+    top: 150px;
+ }
+.section4{
+    background-color: #3f073f;
+    height: 300px;
+ }
+#p{
+    color: white;
+    background-color: #3f073f;  
+    border:2px solid purple;
+    font-size: large;
+    height: 50px;
+    width: 200px;
+    position: relative;
+    top: 10px;
+    left: 180px;
+}
+#p:hover{
+    background-color: purple;
+}
+#main{
+    padding-top:60px;
+   padding: bottom 60px;;
+}
+#col1{
+    border: 2px solid grey;
+    position: relative;
+    left: 150px;
+    bottom: 120px;
+}
+#col{
+    border: 2px solid grey
+}
+#shr{
+   
+    color: white;
+    background-color: #3f073f;
+    font-size: large;
+    border:2px solid  purple;
+    font-size: large;
+    height: 50px;
+    width: 200px;
+    margin-bottom: 50px;
+    padding-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  
+   
+}
+
+
+#shr:hover{
+    background-color:  purple;
+}
+.list{
+    position: relative;
+    top: 30px;
+}
+
+.main-slider {
+    position: relative;
+}
+.slider-img {
+    position: relative;
+}
+.slider-img img {
+    width: 100%;
+    height: 750px;
+}
+.slider-text {
+    position: absolute;
+    top: 200px;
+    left: 0;
+    right: 0;
+    color: #fff;
+    width: 100%;
+    margin: 0 auto;
+}
+#slide {
+    text-align: center;
+    padding: 25px;
+}
+.textside {
+    margin-left: 0;
+    margin-right: 0;
+    display: initial;
+}
+h6 {
+    /* -webkit-text-stroke: 0.5px #000; */
+    color: #fff;
+    font-weight: bold;
+    font-size: 67px;
+    line-height: 70px;
+     font-family: "Open Sans",Sans-serif;
+    letter-spacing: 1px;
+}
+.content h1 {
+    z-index: 1;
+   font-family: 'Dancing Script', cursive;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    white-space: unset;
+    line-height: 50px;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-size: 42px;
+}
+.more_btn {
+    background: #540348;
+    color: #fff;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    padding: 13px 40px;
+    display: inline-block;
+    margin: 40px 0 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    box-shadow: 3px 3px 1px #602c199c;
+    transition: 0.5s;
+    animation-delay: 1s;
+    animation-duration: 1s;
+     font-family: "Open Sans",Sans-serif;
+}
+.bx-wrapper {
+    border: 0;
+    margin-bottom: 0;
+    box-shadow: none;
+    background: none;
+}
+.slider-img:before {
+    position: absolute;
+    content: '';
+    background:#303628b8;
+}
+
+.slider-img:before {
+    /* background: #002147 none repeat scroll 0 0; */
+    content: "";
+    height: 100%;
+    left: 0;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.price{
+    color: rgb(19, 10, 122);
+    font-family: Montserrat, sans-serif;
+    font-size: 17px;
+    text-align: center;
+   
+}
+/* #colour{
+    color: #bd40aa;
+    font-size: 10px;
+} */
+.btn{ 
+    color: #100444;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    padding: 6px 20px;
+    display: inline-block;
+    margin: 40px 0 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    box-shadow: 3px 3px 1px #602c199c;
+    transition: 0.5s;
+    animation-delay: 1s;
+    animation-duration: 1s;
+    font-family: "Open Sans",Sans-serif;
+}
+.btn1{ 
+    color: #fafafa;
+    background-color: #540348;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    padding: 6px 20px;
+    display: inline-block;
+    margin: 40px 0 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    box-shadow: 3px 3px 1px #602c199c;
+    transition: 0.5s;
+    animation-delay: 1s;
+    animation-duration: 1s;
+     font-family: "Open Sans",Sans-serif;
+}
+
+
+
+.sec{
+    color:white;
+   position: relative;
+   right: 30px;
+}
+.heading{
+   color: rgb(245, 93, 225);
+   margin-top: 20px;
+}
+.a{
+    position: relative;
+    right: 10px;
+    top: 10px;
+}
+#sen{
+    color: white;
+}
+
+#titl{
+    color: #540348;
+}
+
+.heade{
+    background-color:rgb(246, 238, 238) ;
+    height: 50px;
+}
+.cat{
+   padding-left: 170px;
+  color: #540348;
+   font-size: 20px;
+   font-family: 'Times New Roman', Times, serif;
+   
+    position: relative;
+    top:10px;  
+}
+
+
+.feedslideshow{
+    font-family: Helvetica, sans-serif;
+    padding: 10%;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#start {
+    overflow: hidden;
+    height: 300px;
+    width: 728px;
+    margin: 0 auto;
+}
+
+/* Style each of the sides 
+with a fixed width and height */
+
+.slide {
+    float: left;
+    height: 300px;
+    width: 728px;
+}
+
+/* Add animation to the slides */
+
+.slide-wrapper {
+    
+    /* Calculate the total width on the
+basis of number of slides */
+    width: calc(728px * 4);
+    
+    /* Specify the animation with the
+duration and speed */
+    animation: slide 10s ease infinite;
+}
+
+/* Set the background color
+of each of the slides */
+
+.slide:nth-child(1) {
+    background: rgb(58, 4, 53); 
+   
+}
+
+.slide:nth-child(2) {
+    background: rgb(58, 4, 53);
+}
+
+.slide:nth-child(3) {
+    background: rgb(53, 4, 53);
+}
+
+.slide:nth-child(4) {
+    background: rgb(53, 4, 53);
+}
+
+/* Define the animation 
+for the slideshow */
+
+@keyframes slide {
+    
+    /* Calculate the margin-left for 
+each of the slides */
+    20% {
+        margin-left: 0px;
+    }
+    40% {
+        margin-left: calc(-728px * 1);
+    }
+    60% {
+        margin-left: calc(-728px * 2);
+    }
+    80% {
+        margin-left: calc(-728px * 3);
+    }
+}
+#feed{
+    color: #fafafa;
+  
+}
+/* .imgpr{
+    border: 2px solid red;
+    border-radius: 60%;
+   
+} */
+
+.inner-header {
+    /* background-color: #002b46; */
+    position: relative;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+    background-image: url(../images/banner1.jpg);
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.inner-header:before {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    /* background: linear-gradient(to top, #5332831f, #4b0d483d); */
+    top: 0;
+    left: 0;
+}
+.ed_img_overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(36, 35, 35, 0.72);
+}
+.inner-headercon {
+    /* background-color: #002b46; */
+    position: relative;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+    background-image: url(../images/6.jpg);
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.inner-headerabo{
+    /* background-color: #002b46; */
+    position: relative;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+    background-image: url(../images/bannerimg1.webp);
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.section3 img{
+    width: 100%;
+    height: 90%;
+    border-radius: 70%;
+    border: 1px solid rgb(12, 0, 10);
+}
+#cus{
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    font-family:'Montserrat Regular';
+}
+ #btnSubmit{
+    position: relative;
+    
+    bottom: 50px;
+} 
+#fo{
+    border:2px solid rgb(91, 27, 87);
+   margin-top: 50px;
+    /* margin-right: 500px;  */
+   width: 100%;
+   padding-right: 50px;
+   padding-left: 50px;
+   
+   padding-top: 50px;
+ 
+} 
+.ma{
+    margin-top: 65px;
+}
+
+    
